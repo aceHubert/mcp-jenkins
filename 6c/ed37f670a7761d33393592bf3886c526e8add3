@@ -1,0 +1,21 @@
+src/lib/jenkins-client.ts
+  s_d28722d71ff06b::t_bc4105b3bae7bd 41-44,180-181,229,260,276,415,673,795,986
+test/lib/jenkins-client.test.ts
+  s_d28722d71ff06b::t_af052d3c70c0c3 97,153,158,276,1186-1187,1194-1195,1202-1203,1214-1303
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6ced37f670a7761d33393592bf3886c526e8add3",
+  "prompts": {},
+  "sessions": {
+    "s_d28722d71ff06b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17b34-7b9f-7e51-b04e-2bea22f874be",
+        "model": "gpt-6.1-terra"
+      },
+      "human_author": "hubert <hubert@lejian.com>"
+    }
+  }
+}
